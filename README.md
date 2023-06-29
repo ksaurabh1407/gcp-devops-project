@@ -1,2 +1,2 @@
 # gcp-devops-project
-Simple project to demonstrate GCP CI/CD capabilities
+### This is a repo for a project to demonstrate GCP CI/CD capabilities
